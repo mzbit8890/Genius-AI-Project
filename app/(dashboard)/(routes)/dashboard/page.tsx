@@ -21,25 +21,11 @@ const tools = [
     href: "/conversation"
   },
   {
-    label: "Music Generation",
-    icon: Music,
-    color: "text-emerald-500",
-    bgcolor: "bg-emerald-500/10",
-    href: "/music"
-  },
-  {
     label: "Image Generation",
     icon: ImageIcon,
     color: "text-pink-700",
     bgcolor: "bg-pink-700/10",
     href: "/image"
-  },
-  {
-    label: "Video Generation",
-    icon: VideoIcon,
-    color: "text-orange-700",
-    bgcolor: "bg-orange-700/10",
-    href: "/video"
   },
   {
     label: "Code Generation",

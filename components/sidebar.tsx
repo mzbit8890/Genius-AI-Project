@@ -39,28 +39,11 @@ const routes = [
         color:"text-pink-700"
     },
     {
-        label:"Video Generation",
-        icon:VideoIcon,
-        href:"/video",
-        color:"text-orange-700"
-    },
-    {
-        label:"Music Generation",
-        icon:Music,
-        href:"/music",
-        color:"text-emerald-500"
-    },
-    {
         label:"Code Generation",
         icon:Code,
         href:"/code",
         color:"text-green-700"
-    },
-    // {
-    //     label:"Settings",
-    //     icon:Settings,
-    //     href:"/settings"
-    // }
+    }
 ]
 
 

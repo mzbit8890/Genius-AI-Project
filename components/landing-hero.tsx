@@ -15,8 +15,6 @@ export const LandingHero = () => {
                     <TypeWriterComponent options={{strings: [
                         "Chatbot.",
                         "Photo Generation.",
-                        "Music Generation.",
-                        "Video Generation.",
                         "Code Generation.",
                         ],
                         autoStart: true,
